@@ -1,0 +1,10 @@
+.form-project, .output
+{
+    background-color: #eee;
+}
+body, 
+.form-project
+{
+    font-family: "PT Sans Caption", sans-serif;
+    background-color: #fff3cd;
+}
