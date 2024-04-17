@@ -18,3 +18,12 @@ bookmarks through a form, which are then saved locally. Users can export the boo
 ensure valid entries. Each bookmark has a button that allows users to navigate directly to the saved URL. This project serves as an opportunity to practice front-end development skills and 
 gain experience in handling user input, data storage, and dynamic rendering. Feel free to explore the project and interact with the bookmarking functionality.
 
+# 2.Smart Login System
+The Smart Login System is a web-based project that enables users to sign up, log in, and access personalized content through a secure authentication process.
+
+# Features
+1. Signup Page: Users can register by providing their name, email, and password. The input is validated using regular expressions to ensure data accuracy. Valid user information is stored in the local storage for future logins.
+
+2. Login Page: Users can enter their email and password to access their accounts. The system verifies the credentials against the stored user information. Successful login redirects users to the home page, while incorrect credentials trigger an error message.
+
+3. Home Page: Authenticated users are greeted with a personalized welcome message on the home page, which retrieves their name from the local storage. The page can be customized to display user-specific content, enhancing the user experience. A logout button is provided to securely log out users, clearing their authentication credentials.
